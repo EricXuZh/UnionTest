@@ -1,0 +1,9 @@
+database.db
+database.db-journal
+desktop.ini
+setup.cfg
+StudentsPerformance.csv
+top2018.csv
+env/
+.vscode/
+__pycache__/
